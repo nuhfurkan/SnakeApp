@@ -1,4 +1,4 @@
-import MainScene from "./MainScene";
+import MainScene from "./MainScene.js";
 
 const config = {
     width: 440,
