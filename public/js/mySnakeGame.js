@@ -1,11 +1,11 @@
 import MainScene from "./MainScene.js";
 
-const config = {
-    width: 440,
-    heigtt: 440,
+const myConfig = {
+    width: 640,
+    height: 640,
     type: Phaser.AUTO,
     parent: "my-snake-app",
     scene: [MainScene]
 };
 
-new Phaser.Game(config);
+var game = new Phaser.Game(myConfig);
