@@ -4,7 +4,6 @@ Snake game developed using several web technologies:
 - Node
 - Phaser
 <br>
-<br>
 A snap from the game given below
 <br>
 <br>
