@@ -7,6 +7,7 @@ const myConfig = {
     height: 640,
     type: Phaser.AUTO,
     parent: "my-snake-app",
+    backgroundColor: "#86dc3d",
     scene: [MainScene]
 };
 
